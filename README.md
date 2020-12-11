@@ -2,6 +2,8 @@
 
 <파이썬 코딩의 기술 개정2판> 소스 코드입니다. Chapter별로 제공합니다. 
 
+![책 이미지](https://gimg.gilbut.co.kr/book/BN002890/rn_view_BN002890.jpg)
+
 ---
 
 ## 예제 파일 내려받기
